@@ -67,11 +67,6 @@ I'm a passionate **Full Stack Developer** specializing in **.NET technologies** 
 
 ---
 
-<p align="left">
-  <a href="https://github.com/AbdulrahmanAbuelgheit">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanAbuelgheit&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak">
-  </a>
-</p>
 
 <p align="left">
   <a href="https://github.com/AbdulrahmanAbuelgheit">
