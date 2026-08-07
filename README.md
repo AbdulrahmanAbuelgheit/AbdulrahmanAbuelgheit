@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Abuelgheit</h1>
-<h3 align="center">Full Stack Developer | .NET Specialist | ITI Graduate | CSC Company</h3>
+<h3 align="center">Full Stack Developer | .NET Specialist | ITI 9-Month Graduate | CSC Company</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50">
@@ -12,11 +12,6 @@
 	
 .NET Full Stack Developer with 1+ year at CSC, contributing to Healthcare Information Systems (HIS) and ERP solutions for the Saudi Ministry of Health, and independently building a live production Patient Portal with third-party integrations. ICPC competitive programmer, ITI 9-Month Diploma and InnovEgypt Business Leading graduate. Technical Interviewer at ITI Job Fair 2026. Experienced in working with multinational teams.
 
-
-🔹 **ITI 9-Month Graduate**  
-🔹 Experience with **SQL Server, MySQL, and Oracle**  
-🔹 Strong knowledge of **API Development & Web Applications**  
-🔹 Passionate about **clean code, performance optimization, and problem-solving**  
 
 ---
 
@@ -80,4 +75,3 @@
 
 I'm always open to new opportunities and collaborations. Feel free to connect with me on **LinkedIn, WhatsApp, or GitHub**!  
 
-💡 **Happy Coding!** 🚀
