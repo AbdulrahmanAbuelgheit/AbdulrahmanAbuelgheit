@@ -9,7 +9,9 @@
 
 ## 🛠 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **.NET technologies** using **C#**, **Entity Framework**, and **LINQ**. I have extensive experience in **backend development, database management, and data structures & algorithms**.
+	
+.NET Full Stack Developer with 1+ year at CSC, contributing to Healthcare Information Systems (HIS) and ERP solutions for the Saudi Ministry of Health, and independently building a live production Patient Portal with third-party integrations. ICPC competitive programmer, ITI 9-Month Diploma and InnovEgypt Business Leading graduate. Technical Interviewer at ITI Job Fair 2026. Experienced in working with multinational teams.
+
 
 🔹 **ITI 9-Month Graduate**  
 🔹 Experience with **SQL Server, MySQL, and Oracle**  
@@ -21,10 +23,10 @@ I'm a passionate **Full Stack Developer** specializing in **.NET technologies** 
 ## 📫 Contact Me  
 
 <p align="left">
-  <a href="mailto:abdulrahmanabuelgheit5@gmail.com">
+  <a href="mailto:abdelrahmanabuelgheit7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://wa.me/201117546522">
+  <a href="https://wa.me/201041449775">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://github.com/AbdulrahmanAbuelgheit">
@@ -33,9 +35,7 @@ I'm a passionate **Full Stack Developer** specializing in **.NET technologies** 
   <a href="https://www.linkedin.com/in/abdulrahman-abuelgheit">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/AbdulrahmanAbuelgheit">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
+
 </p>
 
 ---
